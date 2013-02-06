@@ -7,7 +7,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Just some random shit.");
-		System.out.println("Another line...");
+		System.out.println("More lines...");
 
 	}
 
